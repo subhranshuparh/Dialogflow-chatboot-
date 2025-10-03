@@ -1,0 +1,55 @@
+# Python cache/compiled files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.so
+
+# Virtual environments
+venv/
+env/
+.myenv/
+*.env
+
+# IDE / editor settings
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Logs / debugging
+*.log
+logs/
+debug.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Flask specific
+instance/
+*.db
+*.sqlite3
+
+# ngrok
+.ngrok2/
+*.ngrok.log
+
+# API keys / config
+config.json
+secrets.json
+*.pem
+*.key
+
+# Distribution / build
+dist/
+build/
+*.egg-info/
+# Python virtual environments
+mypro/
+env/
+venv/
+
